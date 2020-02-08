@@ -1,4 +1,52 @@
 body {
-	font-family: monospace;
-	background-color: rgba(255, 255, 255, 0.3);
+	background: #6B0F1A;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Inconsolata',monospace;
+}
+
+footer {
+	width: 100%;
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background: #6F5E76;
+}
+
+h1 {
+	width: 100%;
+	position: relative;
+	top: 0px;
+	background: #6F5E76;
+	padding: 0px;
+	border-top: 0px;
+	margin-top: 0px;
+}
+
+.links {
+	display: block;
+	background: pink;
+	width: 50%;
+	margin: auto;
+}
+
+.links:hover {
+}
+
+@keyframes links-scale {
+	0% {
+		transform: scale(1.03);
+	}
+	50% {
+		transform: scale(1.08);
+	}
+	100%{
+		transform: scale(1.1);
+	}
+
+a {
+	text-align: center;
+	width: 70%;
+	margin: auto;
 }
