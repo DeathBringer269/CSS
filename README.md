@@ -1,3 +1,3 @@
 # CSS Mini templates for reference
-[Preview](https://deathbringer269.github.io/CSS/)  
-[Source](https://www.freecodecamp.org/)
+[Preview](https://alandsilva26.github.io/CSS-Basic-Animations/v)  
+[Reference](https://www.freecodecamp.org/)
